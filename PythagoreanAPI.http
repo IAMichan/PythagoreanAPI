@@ -1,0 +1,6 @@
+@PythagoreanAPI_HostAddress = http://localhost:5062
+
+GET {{PythagoreanAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
